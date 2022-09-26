@@ -1,4 +1,4 @@
-# Notes on Building the new economy - data as capital (Alex Pentland, Alexander Lipton, Thomas Hardjono)
+# Notes on Building the New Economy - Data as Capital (Alex Pentland, Alexander Lipton, Thomas Hardjono)
 
 Book: https://mitpress.mit.edu/9780262543156/building-the-new-economy/
 
